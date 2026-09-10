@@ -41,7 +41,7 @@ I enjoy working with data to discover patterns, solve problems, create dashboard
 
 Explored Netflix content data to analyze MOVIES AND SHOWS 
 
-➡️ [View Project](#)
+➡️ [View Project](https://github.com/Sanketvarpe57/Netflix_SQL_Project.git)
 
 ---
 
